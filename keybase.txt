@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/johand
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://johand.github.io
+  * I am johand (https://keybase.io/johand) on keybase.
+  * I have a public key with fingerprint 7AC6 D647 EE90 7337 AB41  2FAC 410E 032B 7EAB 9A85
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "7ac6d647ee907337ab412fac410e032b7eab9a85",
+            "host": "keybase.io",
+            "key_id": "410e032b7eab9a85",
+            "kid": "010147b310f261759686fad0c6aeb4f859b483fb1843bb8a51f1926592e9aeb5d8be0a",
+            "uid": "69040bda54dd74b97dfcd59a9e5c6600",
+            "username": "johand"
+        },
+        "service": {
+            "hostname": "johand.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1438726906,
+    "expire_in": 157680000,
+    "prev": "dbbdb7fcafc75006c88a772a762e0c732afa9bfa321cb1717855a4cb337c41eb",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owFtkltIVEEYx3fXCymkPXQBs4eO3fA65zrnbKlFUUEUJEYPidvMnDm7J/WcbXfd
+MjUKTLKge2RJBIERVmCKlyIoCV1JhUwpL0WBkFlQRERIBc2xegial2G+7//9vtuc
+mR/n8rg3pMRlHb515Zh7YAa7dvWsXVXNYVuv4rzVXBmduwzT8tNQMGRaEc7LQUQU
+XZEgpRqAoggRlnjBQETiAQWigCFFWEOqzGVzATvsRDAMRmGaa9rMxh4+U2fW/+jL
+5hyAB7wEscgDQ1B4KGuKqhhIB0RBFEuGKmtYUkUD86okYqwimTd4TVBkTaAaU8i6
+iilADFc5h1M0IAGsI1nSdShhDeoG0WUNaVQmigKAIwzTkIUqKFPvswPI0rnabI7Z
+oiahzgCcPv7x5/rNSKAS/+4oGLIjNrHLmTcQiQTDXic6UhV05Aco9v0B+bBp6WyS
+LCJKQ2HTtjgvz5QkYjpkXhJVKLBilWyOHgyaIeozHYUMFRWw4+ShUYbUMdYxNAgy
+CJQBUIiqIggFBBWBAgJFARlIwwYSBZ5gHvJQlWUkEcxWxXZEMee0tt+ynZSsTuRn
+zLDpt1CkMiFEudrkBnd6vMvtcSUmeJzv4EpOWvD3j+wR57kenZ3yNZIm9VRxelXN
+t87MiwPNsznJP0RPwdjA4i9wTfThte6R9saOO4V7J9pJXWrL48r6a0/6zw7g1reF
+705uWfagXdu+vL/Ntfr59aZYm3hxNLvPc3t48/o3k6VdT+Hu1y1dHfHj9WkT58fe
+9i1c0rroQqCgqPvEitjVuE2kse3H6PKe6qFhLbYrfmPHts+DJZo3ljp+srk8Op0r
+J9K8m4sH3/clPau5q5aO5l+//cpTEctoiBV3nrtRMn35xYPjfR+X/lxHHr0E91HN
+1t4PC3rFtJTTh8asuqEdCQ/R95z9fNbs1Nd7GYNxKz/lZwaOjkzKk5eO9BTMFOXl
+7+wfzpv9BQ==
+=4UAJ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/johand
+
+==================================================================
