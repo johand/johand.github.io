@@ -8,7 +8,7 @@
 # Site settings
 title: About me
 baseurl: "/about_me" # the subpath of your site, e.g. /blog
-#url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://johand.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
